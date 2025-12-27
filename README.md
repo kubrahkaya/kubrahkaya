@@ -8,11 +8,20 @@
 Senior Android Engineer • Media3 • AI-Powered Media • Open Source
 </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com//in/kubraharmankaya/"><img src="https://github.com/kubrahkaya/kubrahkaya/blob/main/linkedin.png"/></a> •
-  <a href="https://kubraharmankaya.medium.com/"><img src="https://github.com/kubrahkaya/kubrahkaya/blob/main/medium.png"/></a> •
-  <a href="https://speakerdeck.com/kubrahkaya"><img src="https://github.com/kubrahkaya/kubrahkaya/blob/main/speakerdeck.png"/></a>
-</p>
+<table align="center">
+  <tr>
+    <td>Follow me on: </td>
+    <td>
+      <a href="https://www.linkedin.com//in/kubraharmankaya/"><img src="https://github.com/kubrahkaya/kubrahkaya/blob/main/linkedin.png"/></a>
+    </td>
+    <td>
+      <a href="https://kubraharmankaya.medium.com/"><img src="https://github.com/kubrahkaya/kubrahkaya/blob/main/medium.png"/></a>
+    </td>
+    <td>
+      <a href="https://speakerdeck.com/kubrahkaya"><img src="https://github.com/kubrahkaya/kubrahkaya/blob/main/speakerdeck.png"/></a>
+    </td>
+  </tr>
+</table>
 
 ## 👩‍💻 About me
 
