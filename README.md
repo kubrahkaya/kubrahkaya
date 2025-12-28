@@ -4,41 +4,44 @@
 </p>
 
 <h1 align="center">Hi, I'm Kübra 👋</h1>
-<h3 align="center">
-Senior Android Engineer • Media3 • AI-Powered Media • Open Source
-</h3>
 
-<table align="center">
-  <tr>
-    <td>Follow me on: </td>
-    <td>
-      <a href="https://www.linkedin.com//in/kubraharmankaya/"><img src="https://github.com/kubrahkaya/kubrahkaya/blob/main/linkedin.png"/></a>
-    </td>
-    <td>
-      <a href="https://kubraharmankaya.medium.com/"><img src="https://github.com/kubrahkaya/kubrahkaya/blob/main/medium.png"/></a>
-    </td>
-    <td>
-      <a href="https://speakerdeck.com/kubrahkaya"><img src="https://github.com/kubrahkaya/kubrahkaya/blob/main/speakerdeck.png"/></a>
-    </td>
-  </tr>
-</table>
+🚀 Senior Android Engineer | Media & AI Specialist | Community Leader
 
-## 👩‍💻 About me
+I have 10+ years of professional experience building high-quality, scalable Android apps, with a strong focus on media pipelines, Kotlin craftsmanship, and AI-powered features.
 
-I’m a **Senior Android Engineer** with **10+ years of experience**, focused on
-**media, video processing, and AI-powered features** on Android.
+I work as a contractor, which has given me the opportunity to collaborate with many talented Android developers across London while contributing to large-scale consumer Android apps in the automotive & mobility space. Alongside my industry work, I actively support the Android ecosystem through speaking, mentoring, and open-source contributions.
 
+---
+
+## 🚀 About Me
 - 📱 Android developer since **2013**
-- 🎬 Deep expertise in **Jetpack Media3** (ExoPlayer, Transformer, Composition)
-- 🤖 Exploring **GenAI for media pipelines** (effects, video editing, automation)
-- 🏢 Working on **large-scale consumer Android apps** (automotive & mobility)
-- 🎤 **International conference speaker**
+- 🎬 Deep expertise in **Jetpack Media3** (playback, transformation, composition)
+- 🤖 Exploring **GenAI in media pipelines** (effects, video editing, tooling)
+- 🏢 Building **large-scale consumer Android apps** (automotive & mobility)
+- 🎤 **International conference speaker** (DevFest & community events)
 - 🌍 **GDG Academy mentor**
 - 🌍 **GDG / WTM Lead & mentor**
 - 🧩 Open-source contributor
-  
-## Technologies
+- 💜 **Volunteer for the Kotlin/Everywhere Campaign**
 
-- Kotlin
-- Jetpack Compose
-- 
+---
+
+## 🛠 Tech Stack & Interests
+- **Languages:** Kotlin, Java  
+- **UI:** Jetpack Compose  
+- **Media:** Media3, ExoPlayer, video pipelines  
+- **Architecture:** Clean Architecture, modularization  
+- **AI:** GenAI-assisted features & tooling  
+- **Performance:** Profiling, optimization, best practices  
+
+---
+
+## 🔗 Links & Content
+- ✍️ **Medium:** https://kubraharmankaya.medium.com  
+- 🎤 **SpeakerDeck:** https://speakerdeck.com/kubrahkaya  
+- 🎥 **YouTube (Talks & Interviews):** https://www.youtube.com/watch?v=rZKrk8kPEok  
+- 🌍 **DevFest London (Speaker):** https://www.devfestlondon.com/speakers  
+- 🌍 **DevFest Napoli 2025:** https://www.eventbrite.it/e/napoli-devfest-2025-by-google-developer-groups-napoli-tickets-1322454008539  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/kubraharmankaya  
+- 🧩 **Open Source Contributions:** https://github.com/donovanfm/socialite/pull/2
+
