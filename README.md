@@ -27,16 +27,6 @@ I’ve been a proud GDG Organizer and community member since 2014.
 
 ---
 
-## 🛠 Tech Stack & Interests
-- **Languages:** Kotlin, Java  
-- **UI:** Jetpack Compose  
-- **Media:** Media3, ExoPlayer
-- **Architecture:** Clean Architecture, modularization  
-- **AI:** GenAI-assisted features & tooling  
-- **Performance:** Profiling, optimization, best practices  
-
----
-
 ## 🔗 Links & Content
 - ✍️ **Medium:** https://kubraharmankaya.medium.com  
 - 🎤 **SpeakerDeck:** https://speakerdeck.com/kubrahkaya  
