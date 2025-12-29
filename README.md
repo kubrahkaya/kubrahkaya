@@ -7,7 +7,7 @@
 
 🚀 Senior Android Engineer | Media & AI Specialist | Community Leader
 
-I have 10+ years of professional experience building high-quality, scalable Android apps, with a strong focus on media pipelines, Kotlin craftsmanship, and AI-powered features.
+I have 10+ years of professional experience building high-quality, scalable Android apps. I’m a Kotlin lover and an AI enthusiast, especially interested in how AI can enhance mobile experiences.
 
 I work as a contractor, which has given me the opportunity to collaborate with many talented Android developers across London while contributing to large-scale consumer Android apps in the automotive & mobility space. Alongside my industry work, I actively support the Android ecosystem through speaking, mentoring, and open-source contributions.
 
@@ -15,8 +15,7 @@ I work as a contractor, which has given me the opportunity to collaborate with m
 
 ## 🚀 About Me
 - 📱 Android developer since **2013**
-- 🎬 Deep expertise in **Jetpack Media3** (playback, transformation, composition)
-- 🤖 Exploring **GenAI in media pipelines** (effects, video editing, tooling)
+- 🎬 Actively exploring Jetpack Media3
 - 🏢 Building **large-scale consumer Android apps** (automotive & mobility)
 - 🎤 **International conference speaker** (DevFest & community events)
 - 🌍 **GDG Academy mentor**
@@ -29,7 +28,7 @@ I work as a contractor, which has given me the opportunity to collaborate with m
 ## 🛠 Tech Stack & Interests
 - **Languages:** Kotlin, Java  
 - **UI:** Jetpack Compose  
-- **Media:** Media3, ExoPlayer, video pipelines  
+- **Media:** Media3, ExoPlayer
 - **Architecture:** Clean Architecture, modularization  
 - **AI:** GenAI-assisted features & tooling  
 - **Performance:** Profiling, optimization, best practices  
