@@ -5,11 +5,13 @@
 
 <h1 align="center">Hi, I'm Kübra 👋</h1>
 
-🚀 Senior Android Engineer | Media & AI Specialist | Community Leader
+🚀 Senior Android Engineer | Community Leader
 
 I have 10+ years of professional experience building high-quality, scalable Android apps. I’m a Kotlin lover and an AI enthusiast, especially interested in how AI can enhance mobile experiences.
 
-I work as a contractor, which has given me the opportunity to collaborate with many talented Android developers across London while contributing to large-scale consumer Android apps in the automotive & mobility space. Alongside my industry work, I actively support the Android ecosystem through speaking, mentoring, and open-source contributions.
+I work as a contractor, which has given me the opportunity to collaborate with many talented Android developers across London while contributing to large-scale consumer Android apps in the automotive & mobility space. Alongside my industry work, I actively support the Android ecosystem through speaking, mentoring, and open-source contributions. 
+
+I’ve been a proud GDG Organizer and community member since 2014.
 
 ---
 
